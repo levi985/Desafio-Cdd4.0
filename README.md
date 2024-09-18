@@ -6,7 +6,7 @@ Este projeto implementa uma **calculadora simples** em Python que permite ao usu
 
 - **Entrada de Números**: O usuário pode inserir dois números de sua escolha.
 - **Menu de Operações**: Após inserir os números, o usuário pode selecionar a operação a ser realizada:
-  1. **Soma**: Adiciona os dois números.
+  1 **Soma**: Adiciona os dois números.
   2. **Subtração**: Subtrai o segundo número do primeiro.
   3. **Multiplicação**: Multiplica os dois números.
   4. **Divisão**: Divide o primeiro número pelo segundo (com tratamento para divisão por zero).
